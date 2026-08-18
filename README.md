@@ -51,4 +51,4 @@ Por simular campos sensiveis, este projeto deve ser executado apenas com dados f
 
 ## Autoria
 
-Desenvolvido por Michele Santana - Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos - Kalion Tecnologia.
